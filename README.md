@@ -28,7 +28,7 @@ cd Malaria-Detection-Application
    
 4. Run the application:
 ```bash
-  python applications.py
+  python application.py
 ```
 
 # Application Workflow
