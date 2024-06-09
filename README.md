@@ -45,6 +45,13 @@ cd Malaria-Detection-Application
 
 6. Display the Output: The analyzed result is then displayed to the user.
 
+# Preview Program
+<img width="1244" alt="Screenshot 2024-06-08 at 16 33 25" src="https://github.com/Richardrflsn/Personal-Website/assets/105922097/93e25e18-2729-42bd-b891-605155d21ede">
+
+<img width="1244" alt="Screenshot 2024-06-08 at 16 33 40" src="https://github.com/Richardrflsn/Personal-Website/assets/105922097/662254bb-0d27-4456-ad80-7952942468ac">
+
+<img width="1244" alt="Screenshot 2024-06-08 at 16 33 48" src="https://github.com/Richardrflsn/Personal-Website/assets/105922097/511dd393-4664-4cb1-b7e5-fb2e192be313">
+
 # Acknowledgments
 
 - Kaggle for providing the dataset.
